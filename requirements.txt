@@ -1,0 +1,6 @@
+joblib
+pandas
+streamlit
+plotly
+requests
+beautifulsoup4
