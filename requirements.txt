@@ -4,3 +4,4 @@ streamlit
 plotly
 requests
 beautifulsoup4
+scikit-learn
